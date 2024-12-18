@@ -14,7 +14,8 @@ If you use this repository, please cite the paper using the following BibTeX ent
   title     = {Make Shuffling Great Again: A Side-Channel Resistant Fisher-Yates Algorithm for Protecting Neural Networks},
   author    = {Leonard Puškáč and Marek Benovič and Jakub Breier and Xiaolu Hou}
 }
-'''
+```
+
 ## Repository Structure
 
 - **`capture_traces/`**  
