@@ -30,21 +30,16 @@ month=may}
 - **`capture_traces/`**  
   Contains the network implementation and the code used for trace collection.
 
-- **Trace Data**  
+- **`main_result/`**  
   - **`unprotected/`**: Stores traces for the unprotected implementations.  
-  - **`protected/`**: Stores traces for the protected implementations.  
+  - **`protected/`**: Stores traces for the protected implementations.
+  - **`correlations/`**: Contains attack results for the unprotected implementations.  
+  - **`correlations-protected/`**: Contains attack results for the protected implementations.  
   - Example files:  
     - **`unprotected-trace.txt`**: A sample trace for the unprotected implementation.  
     - **`protected-trace.txt`**: A sample trace for the protected implementation.  
 
-- **`CPA_attack/`**  
-  Includes the Jupyter Notebook file implementing the CPA attack.
-
-- **Attack Results**  
-  - **`correlations/`**: Contains attack results for the unprotected implementations.  
-  - **`correlations-protected/`**: Contains attack results for the protected implementations.  
-
-- **`shuffling_analysis/`**  
-  Contains analysis code for evaluating the computational overhead of the proposed shuffling countermeasure.
-
-
+- **`cpa_vs_traces/`**  
+  Includes the results for Section IV-D of the paper
+- **`more_experiments/`**  
+  Includes the results for appendix of the paper
