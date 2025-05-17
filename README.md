@@ -3,7 +3,7 @@
 This repository provides the implementations, attack code, and experimental results associated with the following paper:
 
 > **Make Shuffling Great Again: A Side-Channel Resistant Fisher-Yates Algorithm for Protecting Neural Networks**  
-> Leonard Puškáč, Marek Benovič, Jakub Breier, and Xiaolu Hou  
+> Leonard Puškáč, Marek Benovič, Jakub Breier, and Xiaolu Hou, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, to appear.
 
 ## Citation
 
