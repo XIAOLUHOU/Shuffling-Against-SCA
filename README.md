@@ -10,10 +10,19 @@ This repository provides the implementations, attack code, and experimental resu
 If you use this repository, please cite the paper using the following BibTeX entry:
 
 ```bibtex
-@inproceedings{puskac2024make,
-  title     = {Make Shuffling Great Again: A Side-Channel Resistant Fisher-Yates Algorithm for Protecting Neural Networks},
-  author    = {Leonard Puškáč and Marek Benovič and Jakub Breier and Xiaolu Hou}
-}
+@ARTICLE{10988891,
+author={Puskac, Leonard and Benovic, Marek and Breier, Jakub and Hou, Xiaolu},
+journal={ IEEE Transactions on Very Large Scale Integration (VLSI) Systems },
+title={{ Make Shuffling Great Again: A Side-Channel-Resistant Fisher–Yates Algorithm for Protecting Neural Networks }},
+year={5555},
+volume={},
+number={01},
+ISSN={1557-9999},
+pages={1-13},
+url = {https://doi.ieeecomputersociety.org/10.1109/TVLSI.2025.3564357},
+publisher={IEEE Computer Society},
+address={Los Alamitos, CA, USA},
+month=may}
 ```
 
 ## Repository Structure
